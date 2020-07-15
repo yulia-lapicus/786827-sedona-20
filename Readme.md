@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Юлия Лапикус](https://up.htmlacademy.ru/adaptive/20/user/786827).
-* Наставник: `Неизвестно`.
+* Наставник: `Михаил Колотович`.
 
 ---
 
